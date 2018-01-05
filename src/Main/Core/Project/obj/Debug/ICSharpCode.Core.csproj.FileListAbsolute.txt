@@ -1,0 +1,6 @@
+E:\新建文件夹\12\bin\ICSharpCode.Core.xml
+E:\新建文件夹\12\bin\ICSharpCode.Core.dll
+E:\新建文件夹\12\bin\ICSharpCode.Core.pdb
+E:\新建文件夹\12\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.csprojResolveAssemblyReference.cache
+E:\新建文件夹\12\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.dll
+E:\新建文件夹\12\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.pdb

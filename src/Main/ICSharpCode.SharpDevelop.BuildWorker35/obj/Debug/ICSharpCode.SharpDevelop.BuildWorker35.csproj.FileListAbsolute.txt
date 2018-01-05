@@ -1,0 +1,6 @@
+E:\新建文件夹\12\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe.config
+E:\新建文件夹\12\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe
+E:\新建文件夹\12\bin\ICSharpCode.SharpDevelop.BuildWorker35.pdb
+E:\新建文件夹\12\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker35.csprojResolveAssemblyReference.cache
+E:\新建文件夹\12\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker35.exe
+E:\新建文件夹\12\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker35.pdb

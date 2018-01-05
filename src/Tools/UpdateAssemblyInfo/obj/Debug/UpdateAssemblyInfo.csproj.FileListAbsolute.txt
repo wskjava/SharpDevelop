@@ -1,0 +1,5 @@
+E:\新建文件夹\12\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+E:\新建文件夹\12\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+E:\新建文件夹\12\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+E:\新建文件夹\12\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+E:\新建文件夹\12\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
